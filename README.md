@@ -5,7 +5,7 @@ Linkedin Badge Medium Badge
 
 <b>Glad to see you here!</b> ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
-I am a sophomore at the Vellore Institute of Technology with a major in Electronics and Computer Engineering. I have a passion for coding. I am certified inPython, C/CPP and Advanced CPP from Spoken Tutorial / IIT Bombay.
+I am final year student at the Vellore Institute of Technology with a major in Electronics and Computer Engineering. I am skilled in Software Engineering, Data Science, ML, Python, Java, and PostgreSQL. I am certified inPython, C/CPP and Advanced CPP from Spoken Tutorial / IIT Bombay.
 
 Talking about Personal Stuffs:
 
