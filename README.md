@@ -1,9 +1,7 @@
 > Hi there, I'm Vaishnavi Nimbalkar
 
-![linkedin](https://www.linkedin.com/in/vaishnavinimbalkar26/)
-Linkedin Badge Medium Badge 
 
-<b>Glad to see you here!</b> ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+<b>Glad to see you here!</b>
 
 I am final year student at the Vellore Institute of Technology with a major in Electronics and Computer Engineering. I am skilled in Software Engineering, Data Science, ML, Python, Java, and PostgreSQL. I am certified inPython, C/CPP and Advanced CPP from Spoken Tutorial / IIT Bombay.
 
